@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Image Alchemy](https://mafl-admirs-projects-988260f3.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://skomorac.dev/](https://skomorac.dev/)
+- 👨‍💻 Some of my projects are available at [https://skomorac.dev/](https://skomorac.dev/)
 
 - 💬 Ask me about **JavaScript, React, Python**
 
