@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://skomorac.dev/**
 
-- ⚡ Fun fact **Not to much fun about me :)**
+- ⚡ Fun fact **I was a sailor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
