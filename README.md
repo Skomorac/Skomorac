@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **JavaScript, React, Python**
 
+- 📫 How to reach me **https://skomorac.dev/**
+
 - ⚡ Fun fact **Not to much fun about me :)**
 
 <h3 align="left">Connect with me:</h3>
