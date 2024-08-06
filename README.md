@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [eCommerce Web App](https://shop.skomorac.in/)
 
-- 🌱 I’m currently learning **NEXT.js, PHP GraphQL and Tailwind CSS**
+- 🌱 I’m currently learning **NEXT.js, PHP, GraphQL and Tailwind CSS**
 
 - 👨‍💻 Some of my projects are available at [https://skomorac.in/](https://skomorac.in/)
 
