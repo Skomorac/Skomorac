@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skomorac&label=Profile%20views&color=0e75b6&style=flat" alt="skomorac" /> </p>
 
-- 🔭 I’m currently working on [eCommerce Web App](https://shop.skomorac.in/)
+- 🔭 I’m currently working on [eCommerce Web App](https://art.skomorac.dev/)
 
 - 🌱 I’m currently learning **NEXT.js, PHP, GraphQL and Tailwind CSS**
 
-- 👨‍💻 Some of my projects are available at [https://skomorac.in/](https://skomorac.in/)
+- 👨‍💻 Some of my projects are available at [https://skomorac.dev/](https://skomorac.dev/)
 
 - 💬 Ask me about **JavaScript, React, Python**
 
-- 📫 How to reach me **https://skomorac.in/**
+- 📫 How to reach me **https://skomorac.dev/**
 
 - ⚡ Fun fact **I was a sailor**
 
